@@ -1,5 +1,5 @@
 ---
-title: CartoonifyAI
+title: PicTMagic
 emoji: 🎨
 colorFrom: pink
 colorTo: yellow
