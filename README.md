@@ -13,7 +13,7 @@ pinned: false
 
 Transform any photo into a cartoon using a K-Means clustering algorithm built from scratch in Python!
 
-## ✨ How it works
+##  How it works
 
 Every image is made of millions of colors. This app reduces the image to only **K colors** using the K-Means algorithm:
 
@@ -24,7 +24,7 @@ Every image is made of millions of colors. This app reduces the image to only **
 
 The fewer colors you choose, the stronger the cartoon effect!
 
-## 🚀 Run it locally
+##  Run it locally
 
 **1. Clone the project**
 ```bash
@@ -51,7 +51,7 @@ Then open your browser at `http://localhost:7860`
 - **Pillow** — image loading and saving
 - **Gradio** — web interface
 
-## 💡 Tips
+##  Tips
 
 - Try **4 to 12 colors** for the best cartoon effect
 - Works best with portraits, landscapes, and high-contrast photos
@@ -59,4 +59,5 @@ Then open your browser at `http://localhost:7860`
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [YOUR NAME]
+Built with ❤️ by Samuel DASSI
+*
