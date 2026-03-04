@@ -44,7 +44,7 @@ python app.py
 
 Then open your browser at `http://localhost:7860`
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python** — core language
 - **NumPy** — K-Means algorithm and pixel manipulation
