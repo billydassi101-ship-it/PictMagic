@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# 🎨 CartoonifyAI — K-Means Color Reduction
+# 🎨 PicTMagic — K-Means Color Reduction
 
 Transform any photo into a cartoon using a K-Means clustering algorithm built from scratch in Python!
 
